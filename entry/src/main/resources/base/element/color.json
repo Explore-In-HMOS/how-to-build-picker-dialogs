@@ -1,0 +1,72 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "home_bg_black",
+      "value": "#000000"
+    },
+    {
+      "name": "home_title_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "home_btn_orange",
+      "value": "#FF4500"
+    },
+    {
+      "name": "home_picker_inline_bg",
+      "value": "#111111"
+    },
+    {
+      "name": "home_picker_disappear_text",
+      "value": "#88FFFFFF"
+    },
+    {
+      "name": "home_picker_text",
+      "value": "#CCCCCC"
+    },
+    {
+      "name": "summary_panel_bg",
+      "value": "#111111"
+    },
+    {
+      "name": "summary_panel_border",
+      "value": "#33FFFFFF"
+    },
+    {
+      "name": "summary_title_orange",
+      "value": "#FF4500"
+    },
+    {
+      "name": "summary_text_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "summary_reset_bg",
+      "value": "#33EF4444"
+    },
+    {
+      "name": "summary_reset_font",
+      "value": "#EF4444"
+    },
+    {
+      "name": "row_title_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "row_value_gray",
+      "value": "#CCCCCC"
+    },
+    {
+      "name": "row_bg_transparent",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "row_btn_default_bg",
+      "value": "#33FFFFFF"
+    }
+  ]
+}

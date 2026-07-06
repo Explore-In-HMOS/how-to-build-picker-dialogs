@@ -1,0 +1,152 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "dialog_reset_title",
+      "value": "Reset"
+    },
+    {
+      "name": "dialog_reset_content",
+      "value": "Reset current configurations?"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "dialog_reset_action",
+      "value": "Reset"
+    },
+    {
+      "name": "dialog_save_title",
+      "value": "Save Alarm"
+    },
+    {
+      "name": "dialog_save_content",
+      "value": "Apply these settings?"
+    },
+    {
+      "name": "dialog_check_tips",
+      "value": "Enable immediately"
+    },
+    {
+      "name": "dialog_deny",
+      "value": "Deny"
+    },
+    {
+      "name": "dialog_allow",
+      "value": "Allow"
+    },
+    {
+      "name": "empty",
+      "value": ""
+    },
+    {
+      "name": "dialog_sound_title",
+      "value": "Alarm Sound"
+    },
+    {
+      "name": "sound_nature",
+      "value": "Nature"
+    },
+    {
+      "name": "sound_classic",
+      "value": "Classic Ring"
+    },
+    {
+      "name": "sound_digital",
+      "value": "Digital Beep"
+    },
+    {
+      "name": "summary_title",
+      "value": "SUMMARY"
+    },
+    {
+      "name": "summary_date_format",
+      "value": "Date: %s"
+    },
+    {
+      "name": "summary_time_format",
+      "value": "Time: %s"
+    },
+    {
+      "name": "summary_repeat_format",
+      "value": "Repeat: %s"
+    },
+    {
+      "name": "summary_sound_format",
+      "value": "Sound: %s"
+    },
+    {
+      "name": "home_title",
+      "value": "Home"
+    },
+    {
+      "name": "label_date",
+      "value": "Date"
+    },
+    {
+      "name": "label_time",
+      "value": "Time"
+    },
+    {
+      "name": "label_repeat",
+      "value": "Repeat"
+    },
+    {
+      "name": "label_sound",
+      "value": "Sound"
+    },
+    {
+      "name": "btn_pick",
+      "value": "Pick"
+    },
+    {
+      "name": "btn_close",
+      "value": "Close"
+    },
+    {
+      "name": "btn_set",
+      "value": "Set"
+    },
+    {
+      "name": "btn_edit",
+      "value": "Edit"
+    },
+    {
+      "name": "btn_audio",
+      "value": "Audio"
+    },
+    {
+      "name": "btn_save",
+      "value": "Save"
+    },
+    {
+      "name": "pattern_once",
+      "value": "Once"
+    },
+    {
+      "name": "pattern_daily",
+      "value": "Daily"
+    },
+    {
+      "name": "pattern_weekdays",
+      "value": "Weekdays"
+    },
+    {
+      "name": "pattern_weekends",
+      "value": "Weekends"
+    }
+  ]
+}
